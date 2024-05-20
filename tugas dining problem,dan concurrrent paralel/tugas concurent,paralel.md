@@ -18,7 +18,7 @@ Contoh : misalkan pembeli A,bisa selesai membayar setelah pembeli b,c,dan d memb
 Paralel adalah eksekusi beberapa tugas secara bersamaan pada waktu yang bersamaan 
 Contohnya   paralel adalah ketika  sedang menjalankan beberapa aplikasi pada komputer  secara bersamaan. Misalnya,  menjalankan browser web, dan aplikasi pemutar musik secara bersamaan .
 •	CONCURREENT
-Tugas yang berjalan secara bergantian dan lebih dari satu tugas  
+Tugas yang berjalan secara bergantian dan lebih dari satu tugas 
 
 
 
