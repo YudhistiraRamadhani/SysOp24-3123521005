@@ -5,9 +5,9 @@ TI : A
 
 ![4e2c5310-b8d0-478b-9cae-98e546968857](https://github.com/YudhistiraRamadhani/SysOp24-3123521005/assets/154694700/03bff15b-1537-4f6c-bc48-d8c4f000e718)
 
-Keterangan :  serial queue prosesnya berurutan satu persatu satu  setiap tugas baru hanya dimulai setelah tugas sebelumnya selesai dijalankan 
+Keterangan :  serial queue prosesnya berurutan satu persatu satu  setiap tugas baru hanya dimulai setelah tugas sebelumnya selesai dijalankan ini seperti konsep FIFO (first in first out) sama sama mendahulukan yang pertama 
 
-Contoh :  misalkan ada pembeli A,B,dan C mau membayar di kasir  dalam pemrosesan serial untuk eksekusinya adalah pembeli A dahululu  kemudian B, lalu C  
+Contoh :  misalkan ada pembeli A,B,dan C mau membayar di kasir  dalam pemrosesan serial queue untuk eksekusinya adalah pembeli A dahululu  kemudian B, lalu C  
 
 Concurrent  queue
 Dan pada gambar ini berlangsung seperti tumpukan
